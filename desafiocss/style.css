@@ -1,0 +1,19 @@
+nav {
+    background-color: gray;
+    text-align: right;
+    
+
+}
+li{
+    display: inline;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+}
